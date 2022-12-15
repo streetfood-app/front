@@ -1,6 +1,6 @@
 export const App = () => {
   return (
-    <h1>StreetFood</h1>
+    <h1 className="text-center text-red-500">StreetFood</h1>
   );
 }
 

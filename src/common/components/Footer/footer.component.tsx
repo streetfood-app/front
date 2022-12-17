@@ -1,4 +1,4 @@
-import Logo from "../../../../public/assets/logo-footer.png";
+import Logo from "@image/logo-footer.png";
 import { FooterAddress } from "../Footer-info/footer-address/footer-address.component";
 import { FooterBook } from "../Footer-info/footer-book/footer-book.component";
 import { FooterOpening } from "../Footer-info/footer-opening/footer-opening.component";
